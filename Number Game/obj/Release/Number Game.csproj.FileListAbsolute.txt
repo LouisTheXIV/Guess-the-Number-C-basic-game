@@ -1,0 +1,5 @@
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\bin\Release\Number Game.exe.config
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\bin\Release\Number Game.exe
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\bin\Release\Number Game.pdb
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\obj\Release\Number Game.exe
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\obj\Release\Number Game.pdb

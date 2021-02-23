@@ -1,0 +1,6 @@
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\bin\Debug\Number Game.exe.config
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\obj\Debug\Number Game.csprojResolveAssemblyReference.cache
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\bin\Debug\Number Game.exe
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\bin\Debug\Number Game.pdb
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\obj\Debug\Number Game.exe
+C:\Users\alext\OneDrive\Desktop\My C#\Number Game\Number Game\obj\Debug\Number Game.pdb
